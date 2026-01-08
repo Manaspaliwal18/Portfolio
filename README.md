@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📊 Manas Paliwal | Data & Business Analytics
 
-## Getting Started
+> **[Explore Live Dashboard →](https://portfolio-lyart-eight-97.vercel.app/)**
 
-First, run the development server:
+Professional portfolio showcasing the intersection of **Product Intelligence** and **Operational Analytics**. I specialize in turning complex datasets into actionable business strategies using Python, SQL, and Power BI.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🚀 High-Impact Case Studies
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **Olist Logistics Command Center** Optimized e-commerce delivery by identifying that 20% of sellers caused 80% of delays, enabling targeted operational interventions.
+* **PocketBuddy Finance Tool** Engineered a logic-driven spending ceiling for student budget management, converting static monthly data into daily actionable insights.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+### 🛠️ Technical Ecosystem
 
-To learn more about Next.js, take a look at the following resources:
+* **Languages:** Python (Pandas, NumPy, Seaborn), SQL
+* **Visuals:** Power BI (DAX), Matplotlib
+* **Engineering:** Next.js, Tailwind CSS, TypeScript
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 📬 Connect
 
-## Deploy on Vercel
+* **LinkedIn:** [linkedin.com/in/manas-paliwal](https://www.linkedin.com/in/manas-paliwal-979015311)
+* **Email:** [manaspaliwal18@gmail.com](mailto:manaspaliwal18@gmail.com)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Built with precision for V1.0*
