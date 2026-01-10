@@ -75,7 +75,7 @@ export const education = [
     school: "L. Soldiers Senior Secondary School, Udaipur",
     year: "2024",
     score: "86.60%",
-    pdfLink: "/files/class-12-marksheet.pdf",
+    pdfLink: "/logos/class-12-marksheet.pdf",
     logos: {
       board: "/logos/rbse.png",
       school: "/logos/lss-school.png",
